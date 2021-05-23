@@ -1,5 +1,5 @@
-% Justin He: 50282699 Lab Section: A1
-% Yunmei Zheng: 503135880 Lab Section: C2
+% Justin He: Lab Section: A1
+% Yunmei Zheng: Lab Section: C2
 
 % Uranium Constants
 Ump = 1406;Uden = 19070;UCp = 116;Uk = 27.6;Ua = 12.5;
